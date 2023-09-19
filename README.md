@@ -18,10 +18,4 @@ Use LMTCoin 100% on LMT Marketplace.  in shop have product more than 1,000 item.
 # Staking
 LMT Web3 Staking created a passive income generation technology that works through the Binance Smart chain. Get bonus automatically deposit into your wallet.
 
-# Contact LMTCoin
-
-💎 Twitter : 
-
-🚀 Telegram Group : 
-
 🌐 Smart Contract : https://bscscan.com/token/0x3F2B3b473814330b559917C3193e9820b9362774
